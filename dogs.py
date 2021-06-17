@@ -1,3 +1,7 @@
+# Andrew Bass
+# 6/17/21
+# This script is used to load information about all dog breeds
+
 import requests, json
 
 dog = requests.get(
